@@ -1,0 +1,4 @@
+C:\cpp\Graphics\ChessVS\Debug\ChessVS.exe
+C:\cpp\Graphics\ChessVS\Debug\ChessVS.pdb
+D:\DenisLearn\ChessVS\Debug\ChessVS.exe
+D:\DenisLearn\ChessVS\Debug\ChessVS.pdb
